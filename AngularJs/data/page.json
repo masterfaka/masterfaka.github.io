@@ -1,0 +1,7 @@
+{
+  "themeColor": "green",
+  "gmapKey": "GmapAPIKey",
+  "contactEmail": "Enter your contact email address",
+  "contactSubject": "New message from {{ fullname }}",
+  "contactMessage": "Hi,\n\nYou have new message from {{ fullname }} as follow:\n\n{{ message }}\n\n"
+}
