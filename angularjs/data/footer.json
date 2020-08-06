@@ -31,11 +31,12 @@
     ],
     "socialLinks": [
       {
-        "title": "Facebook",
-        "url": "#facebook",
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/robert-friedel/",
         "target": "_blank",
-        "class": "fa fa-facebook"
-      },
+        "class": "fa fa-linkedin"
+      }
+      /*,
       {
         "title": "Google plus",
         "url": "#google-plus",
@@ -60,7 +61,8 @@
         "target": "_blank",
         "class": "fa fa-twitter"
       }
+      */
     ],
-    "copyText": "Made with <i class=\"fa fa-heart\"></i> by <a href=\"http://www.drupalthemez.com\" target=\"_blank\">www.drupalthemez.com</a>"
+    "copyText": "Made with <i class=\"fa fa-heart\"></i> by redwardweb"
   }
 }
