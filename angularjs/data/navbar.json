@@ -2,8 +2,8 @@
   "title": "Navigation",
   "description": "",
   "items": {
-    "logoTransperant": "images/logo-white.png",
-    "logo": "images/logo.png",
+    "logoTransperant": "images/logo1_1.png",
+    "logo": "images/logo2_1.png",
     "isSearchActive": true,
     "mainMenu": [
       {
