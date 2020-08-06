@@ -229,6 +229,9 @@ Primary use:	Application landing page
     line-height: 60px;
     height: 60px;
   }
+  .navbar-brand img{
+    height: 60px;
+  }
   .navbar-nav>li>a {
     padding-top: 20px;
     padding-bottom: 20px;
