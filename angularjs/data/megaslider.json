@@ -3,13 +3,6 @@
   "description": "A beautiful way to present your design.",
   "items": [
     {
-      "title": "Beetle",
-      "description": "HTML5 template for landing page, blog and resume",
-      "buttonLabel": "Read more",
-      "buttonUrl": "#",
-      "background": "images/demo-bg.png"
-    },
-    {
       "title": "Lab desk",
       "description": "Tools are all we need for creating good stuff",
       "buttonLabel": "Read more",
@@ -21,7 +14,7 @@
       "description": "We love to work inside dark rooms",
       "buttonLabel": "Read more",
       "buttonUrl": "#",
-      "background": "images/demo-bg.png"
+      "background": "../assets/img/header-bg.jpg"
     }
   ]
 }
