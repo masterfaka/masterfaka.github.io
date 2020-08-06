@@ -3,13 +3,13 @@
   "description": "Choose your platform to install the application",
   "items": [
       {
-        "url": "#android",
+        "url": "/dl/android.apk",
         "iconClass": "fa fa-android",
         "text": "Download for Android",
         "smallText": "30 days free trial"
       },
       {
-        "url": "#iphone",
+        "url": "dl/ios.ipa",
         "iconClass": "fa fa-apple",
         "text": "Download for iPhone",
         "smallText": "30 days free trial"
