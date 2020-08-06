@@ -191,39 +191,7 @@
     <!-- Pricing -->
     <section class="block secondary pricing" id="pricing">
       <div class="container">
-        <div class="block-title text-center">
-          <h2>{{ pricing.title }}</h2>
-          <p class="lead">{{ pricing.description }}</p>
-        </div>
-        <div class="row">
-          <div class="row-height">
-            <div ng-repeat="item in pricing.items" class="col-sm-8 col-sm-offset-2 col-md-4 col-md-height col-md-middle">
-              <div class="plan-single f-plan depth-xl">
-                <div class="pricing-header">
-                  <h4 class="no-margin">{{ item.plan.title }}</h4>
-                  <p class="no-margin">{{ item.plan.subtitle }}</p>
-                </div>
-                <div class="price">
-                  <div>
-                    {{ item.plan.price }}<sub class="duration">/{{ item.plan.duration }}</sub>
-                  </div>
-                </div>
-                <div class="pricing-content">
-                  <ul class="list-unstyled">
-                    <li ng-repeat="feature in item.plan.features">{{ feature.property }} <span ng-bind-html="feature.value"></span></li>
-                  </ul>
-                  <div>
-                    <a href="#" ng-href="{{ item.button.url }}" class="btn btn-icon btn-solid btn-block no-border-radius">
-                      <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
-                      {{ item.button.text }}
-                      <span>{{ item.button.smallText }}</span>
-                    </a>
-                  </div>
-                </div>
-              </div><!-- Plan Single Ends -->
-            </div>
-          </div>
-        </div>
+        
       </div>
     </section>
     <!-- End pricing -->
