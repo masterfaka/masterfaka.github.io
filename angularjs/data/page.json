@@ -1,5 +1,5 @@
 {
-  "themeColor": "green",
+  "themeColor": "purple",
   "gmapKey": "GmapAPIKey",
   "contactEmail": "Enter your contact email address",
   "contactSubject": "New message from {{ fullname }}",
