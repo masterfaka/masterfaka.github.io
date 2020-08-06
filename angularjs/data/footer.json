@@ -36,32 +36,6 @@
         "target": "_blank",
         "class": "fa fa-linkedin"
       }
-      /*,
-      {
-        "title": "Google plus",
-        "url": "#google-plus",
-        "target": "_blank",
-        "class": "fa fa-google-plus"
-      },
-      {
-        "title": "Pinterest",
-        "url": "#pinterest",
-        "target": "_blank",
-        "class": "fa fa-pinterest"
-      },
-      {
-        "title": "Skype",
-        "url": "#skype",
-        "target": "_blank",
-        "class": "fa fa-skype"
-      },
-      {
-        "title": "Twitter",
-        "url": "#twitter",
-        "target": "_blank",
-        "class": "fa fa-twitter"
-      }
-      */
     ],
     "copyText": "Made with <i class=\"fa fa-heart\"></i> by redwardweb"
   }
