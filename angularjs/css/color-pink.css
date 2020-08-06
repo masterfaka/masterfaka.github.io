@@ -28,8 +28,8 @@ Primary use:	Application landing page
 # [Color codes]
 
 # Dark grey (text): #777777
-# Primary: #f7bfbe rosa 1
-# Secondary: #ffc0cb rosa 2
+# Primary: #f7bfbe
+# Secondary: #ffc0cb
 # Light grey (block background): #f6f6f6
 # Mid grey: #b7b7b7
 # */
@@ -41,19 +41,19 @@ body {
   color: #777777;
 }
 a{
-  color: #3b54ec; 
+  color: #f7bfbe; 
 }
 a:active,
 a:focus,
 a:hover{
-  color: #00aeef;
+  color: #ffc0cb;
   text-decoration: none;
 }
 .form-control{
-  border-color: #3b54ec
+  border-color: #f7bfbe
 }
 .form-control:focus{
-  border-color: #00aeef
+  border-color: #ffc0cb
 }
 
 /*------------------------------------------------------------------
@@ -64,14 +64,14 @@ a:hover{
 }
 .loader {
     border: 16px solid #f6f6f6; /* Light grey */
-    border-top: 16px solid #3b54ec; /* Blue */
+    border-top: 16px solid #f7bfbe; /* Blue */
 }
 .btn-white{
   background: #ffffff;
-  color: #3b54ec;
+  color: #f7bfbe;
 }
 .btn-solid{
-  background: #3b54ec;
+  background: #f7bfbe;
   color: #ffffff !important
 }
 .btn-solid:active,
@@ -80,7 +80,7 @@ a:hover{
 .btn-white:active,
 .btn-white:focus,
 .btn-white:hover{
-  color: #00aeef;
+  color: #ffc0cb;
 }
 .affix-top .btn-transparent {
   background:  none !important;
@@ -95,7 +95,7 @@ a:hover{
   box-shadow: 0 20px 30px 0 rgba(0,0,0,.2);
 }
 .secondary {
-    background: #00aeef;
+    background: #ffc0cb;
     color: #ffffff;
 }
 .block.odd{
@@ -129,7 +129,7 @@ a:hover{
 .navbar-default .navbar-toggle, 
 .navbar-default .navbar-toggle:focus, 
 .navbar-default .navbar-toggle:active {
-  color: #3b54ec;
+  color: #f7bfbe;
 }
 .navbar-default .navbar-brand{
   color: #777777
@@ -140,10 +140,10 @@ a:hover{
   color: #ffffff !important;
 }
 .navbar-default .navbar-nav>li>a {
-  color: #3b54ec !important;
+  color: #f7bfbe !important;
 }
 .affix-top .navbar-collapse.in {
-  background: #3b54ec;
+  background: #f7bfbe;
 }
 
 /*------------------------------------------------------------------
@@ -156,19 +156,19 @@ a:hover{
   color: #ffffff;
 }
 .slide-item:before{
-  background: #3b54ec;
-  background-image: -ms-linear-gradient(top, #3b54ec 0%, #00aeef 100%);
-  background-image: -moz-linear-gradient(top, #3b54ec 0%, #00aeef 100%);
-  background-image: -o-linear-gradient(top, #3b54ec 0%, #00aeef 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #3b54ec), color-stop(100, #00aeef));
-  background-image: linear-gradient(to bottom, #3b54ec 0%, #00aeef 100%);
+  background: #f7bfbe;
+  background-image: -ms-linear-gradient(top, #f7bfbe 0%, #ffc0cb 100%);
+  background-image: -moz-linear-gradient(top, #f7bfbe 0%, #ffc0cb 100%);
+  background-image: -o-linear-gradient(top, #f7bfbe 0%, #ffc0cb 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #f7bfbe), color-stop(100, #ffc0cb));
+  background-image: linear-gradient(to bottom, #f7bfbe 0%, #ffc0cb 100%);
 }
 
 /*------------------------------------------------------------------
 [6. Grid items / .grid-icon-item]
 */
 .feature-image i{
-    color: #3b54ec;
+    color: #f7bfbe;
 }
 
 /*------------------------------------------------------------------
@@ -183,7 +183,7 @@ a:hover{
 */
 .app-screenshots .slick-arrow,
 .testimonials .slick-arrow{
-  color: #3b54ec;
+  color: #f7bfbe;
   background: #fff;
 }
 .testimonial .content {
@@ -203,7 +203,7 @@ a:hover{
 */
 .plan-single {
     background: #ffffff;
-    border: 2px solid #3b54ec;
+    border: 2px solid #f7bfbe;
     color: #777777;
 }
 .pricing-header {
@@ -254,7 +254,7 @@ a:hover{
 .subscribe .input-group-btn .btn:hover,
 .subscribe .input-group-btn .btn:focus,
 .subscribe .input-group-btn .btn:active {
-  background: #3b54ec;  
+  background: #f7bfbe;  
 }
 
 /*------------------------------------------------------------------
@@ -268,5 +268,5 @@ footer,
     color: #b7b7b7;
 }
 .footer_social_area a:hover {
-    color: #00aeef;
+    color: #ffc0cb;
 }
