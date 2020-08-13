@@ -3,7 +3,7 @@
   "description": "Choose your platform to install the application",
   "items": [
       {
-        "url": "/dl/appTRY.apk",
+        "url": "dl/appTRY.apk",
         "iconClass": "fa fa-android",
         "text": "Download for Android",
         "smallText": "30 days free trial"
